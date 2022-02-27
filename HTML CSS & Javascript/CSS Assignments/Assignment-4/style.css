@@ -1,0 +1,14 @@
+* {
+    margin: 0%;
+}
+
+.container {
+    margin: 20px 30px;
+    background-color: rgb(255, 255, 255);
+    padding: 30px 40px;
+    width: fit-content;
+}
+
+a:visited {
+    color: rgba(27, 39, 211, 0.726);
+}
