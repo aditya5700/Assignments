@@ -1,0 +1,30 @@
+{
+  "addList": [
+    {
+      "addTitle": "Samsung",
+      "addName": "Aditya Yadav",
+      "date": "2022-03-20T18:30:00.000Z",
+      "category": "Mobile",
+      "description": "50% Sale on all mobiles",
+      "id": 1
+    },
+    {
+      "addTitle": "Ashley Furniture",
+      "addName": "Pratik kamdi",
+      "date": "2022-03-14T18:30:00.000Z",
+      "category": "Furniture",
+      "description": "#1 company in furniture, buy at wholesale price",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
