@@ -1,0 +1,47 @@
+section {
+  height: 100vh;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: #222222;
+  gap: 2rem;
+}
+
+.about .video-container {
+  margin: 10px;
+  flex: 1 1 42rem;
+}
+
+.about .video-container .video {
+  border-radius: 1rem;
+  width: 100%;
+}
+
+.about .video-container .controls {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+
+.about .content {
+  flex: 1 1 42rem;
+  margin-right: 0.4rem;
+  margin-bottom: 5rem;
+}
+
+
+
+  
+
+@media(max-width:450px) {
+  html {
+    font-size: 50%;
+  }
+
+  .about .content h3 {
+    font-size: 2.5rem;
+  }
+}
